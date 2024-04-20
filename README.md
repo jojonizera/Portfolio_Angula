@@ -1,2 +1,2 @@
-# Portfolio_Angula
+# Portfolio_Angular
 Curso do Senac de Angular
